@@ -1,0 +1,8 @@
+{
+  "name": "Meu Plano de Emagrecimento",
+  "description": "Um aplicativo para acompanhar refeições, exercícios e peso de acordo com um plano de nutricionista personalizado. Apresenta contagem de calorias com IA, sugestões de refeições e motivação.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
